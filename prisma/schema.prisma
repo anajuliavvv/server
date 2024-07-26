@@ -10,7 +10,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = "postgresql://anajuliavvv:G61wXa8n8skNWkGcyi4rxc7JHFt8LE5N@dpg-cptl74pu0jms73eb0gjg-a.oregon-postgres.render.com/anajuliavvv"
+  url      = "postgres://avnadmin:AVNS_3zgmvoObKsKxKDtDuro@pg-23627a89-proton-fa1b.d.aivencloud.com:14197/defaultdb?sslmode=require"
 }
 
 model Code {
